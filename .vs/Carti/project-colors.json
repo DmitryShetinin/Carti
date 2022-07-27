@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d70fd41d-5abe-4310-80dd-9b512d83f4e0": {
+      "ProjectGuid": "d70fd41d-5abe-4310-80dd-9b512d83f4e0",
+      "DisplayName": "Carti",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "7fbc055b-640d-4c3f-90a3-7420a87a4c45": {
+      "ProjectGuid": "7fbc055b-640d-4c3f-90a3-7420a87a4c45",
+      "DisplayName": "Zadanie1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

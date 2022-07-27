@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carti", "Carti\Carti.csproj", "{D70FD41D-5ABE-4310-80DD-9B512D83F4E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie1", "Zadanie1\Zadanie1.csproj", "{7FBC055B-640D-4C3F-90A3-7420A87A4C45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D70FD41D-5ABE-4310-80DD-9B512D83F4E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D70FD41D-5ABE-4310-80DD-9B512D83F4E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D70FD41D-5ABE-4310-80DD-9B512D83F4E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D70FD41D-5ABE-4310-80DD-9B512D83F4E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FBC055B-640D-4C3F-90A3-7420A87A4C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FBC055B-640D-4C3F-90A3-7420A87A4C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FBC055B-640D-4C3F-90A3-7420A87A4C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FBC055B-640D-4C3F-90A3-7420A87A4C45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C91DC42-F293-472D-8A8B-509CA1D55162}
+	EndGlobalSection
+EndGlobal

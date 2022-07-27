@@ -1,0 +1,16 @@
+C:\Users\Shche\source\repos\Carti\Carti\bin\Debug\Carti.exe.config
+C:\Users\Shche\source\repos\Carti\Carti\bin\Debug\Carti.exe
+C:\Users\Shche\source\repos\Carti\Carti\bin\Debug\Carti.pdb
+C:\Users\Shche\source\repos\Carti\Carti\obj\Debug\Carti.csproj.AssemblyReference.cache
+C:\Users\Shche\source\repos\Carti\Carti\obj\Debug\Carti.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shche\source\repos\Carti\Carti\obj\Debug\MainWindow.g.cs
+C:\Users\Shche\source\repos\Carti\Carti\obj\Debug\App.g.cs
+C:\Users\Shche\source\repos\Carti\Carti\obj\Debug\Carti_MarkupCompile.cache
+C:\Users\Shche\source\repos\Carti\Carti\obj\Debug\Carti_MarkupCompile.lref
+C:\Users\Shche\source\repos\Carti\Carti\obj\Debug\MainWindow.baml
+C:\Users\Shche\source\repos\Carti\Carti\obj\Debug\Carti.g.resources
+C:\Users\Shche\source\repos\Carti\Carti\obj\Debug\Carti.Properties.Resources.resources
+C:\Users\Shche\source\repos\Carti\Carti\obj\Debug\Carti.csproj.GenerateResource.cache
+C:\Users\Shche\source\repos\Carti\Carti\obj\Debug\Carti.csproj.CoreCompileInputs.cache
+C:\Users\Shche\source\repos\Carti\Carti\obj\Debug\Carti.exe
+C:\Users\Shche\source\repos\Carti\Carti\obj\Debug\Carti.pdb
